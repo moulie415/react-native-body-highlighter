@@ -19,7 +19,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "ramda": "^0.26.1",
+    "ramda": "^0.26.1"
   },
   "peerDependencies": {
     "react": "^16.8.3",
